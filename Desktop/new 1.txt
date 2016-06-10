@@ -1,0 +1,19 @@
+ <!doctype html>
+ <meta charset="utf-8">
+ <body>
+ <html>
+ <Title>Suane Willis, M.Sp.Ed.</title>
+ <div>
+	<h1>Suane Willis, Special Education Teacher & 21st Century S.T.E.M. Tutor<h1>
+	<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/113/32f/187f66d.jpg" alt="Suanne Willis" />
+</div>
+<br>
+<h2>Education</h2>
+<p>Hello! I graduated from Grand Canyon University with a Bachelor's of Science degree in Elementary Education (grades 1-8). In 2013 I went on to earn a second Bachelor's Degree in K-12 Special Education and in 2015 I completed Master's Degree in Special Education at Grand Canyon University. I am certified to teach children from grades K-12 from general education up to any of the 13 different disability classifications.</p>
+<p2>For several years I have also been the lead educator in STEM studies at the Fowler Elementary School District.</p2>
+<h2>Experience</h2>
+<p>K-3 Special Education (Cross-Cat) teacher with emphasis on autism and behavioral studies. Reading intervention and S.T.E.M. tutor under 21st Century Education Grant from 2013 to present. Independent education in Spanish, levels I, II & III and American Sign Language for Education.</p>
+
+
+	
+ 

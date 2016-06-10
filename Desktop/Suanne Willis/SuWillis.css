@@ -1,0 +1,27 @@
+body {
+	background:black
+}
+h1 {
+	color:#00FFFF;
+	font-family: Georgia;
+	font-weight:bolder;	
+}
+h2 {
+	color:#006400;
+	font-family: Georgia;
+	text-decoration:underline;
+}
+h3 {
+	color:cornflowerblue;
+	font-family: Georgia;
+}
+
+ul {
+	color:white;
+	font-family:times new roman;
+	font-weight:lighter;
+}
+p {
+	color:white;
+	font-family:times new roman;
+}
